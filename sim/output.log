@@ -1,0 +1,31 @@
+[GEN] Data: K (1001011)
+[MON] Starting monitor...
+[SCB] Starting scoreboard...
+[DRV] Sent character: K
+[MON] DWORD Received: K (4b)
+[SCB][PASS] Received K
+[GEN] Data: R (1010010)
+[MON] DWORD Received: R (52)
+[SCB][PASS] Received R
+[DRV] Sent character: R
+[GEN] Data: U (1010101)
+[MON] DWORD Received: U (55)
+[SCB][PASS] Received U
+[DRV] Sent character: U
+[GEN] Data: P (1010000)
+[MON] DWORD Received: P (50)
+[SCB][PASS] Received P
+[DRV] Sent character: P
+[GEN] Data: A (1000001)
+[MON] DWORD Received: A (41)
+[SCB][PASS] Received A
+[DRV] Sent character: A
+[GEN] Data: L (1001100)
+[MON] DWORD Received: L (4c)
+[SCB][PASS] Received L
+[DRV] Sent character: L
+[GEN] All transactions generated
+[MON] Received all 6 characters
+[DRV] All characters transmitted
+[ENV] All components finished
+[TB] Simulation completed successfully!
